@@ -36,14 +36,3 @@ img.me{
     height: 150px;
     float:inherit
 }
-
-a {
-    text-decoration: none;
-    font-weight: bold;
-    color: rgb(4, 4, 170);
-}
-
-a:hover {
-    text-decoration: underline;
-    color: rgb(26, 26, 225)
-}
